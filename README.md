@@ -42,7 +42,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Dock
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/daxAKAhackerman/XSS-Catcher.git
+$ git clone https://github.com/MEY-D/XSS-Catcher.git
 
 # Go into the repository
 $ cd XSS-Catcher
